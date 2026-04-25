@@ -1,0 +1,3 @@
+﻿estado,linhas,municipios,anos,casos_total,pop_ausente,pop_zero_ou_negativa,incidencia_ausente,casos_negativos,municipios_esperados,dif_municipios
+RJ,2208,92,24,356603,0,0,0,0,92,0
+SP,15480,645,24,479036,0,0,0,0,645,0
